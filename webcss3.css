@@ -107,8 +107,6 @@ body{
 
 /*-----------------------ABOUT------------------------*/
 #about{
-	display: flex;
-	justify-content:center;
 	align-items: center;
 	float:left;
 	width:100%;
